@@ -17,5 +17,29 @@ https://m3u.cl/channel/c13.php?PlaylistM3UCL
 #EXTINF:-1 group-title="Canales Nacionales" tvg-id="5" tvg-name="Molina TV" tvg-logo="https://i.imgur.com/1ite6R6.png",Molina TV
 https://marine2.miplay.cl/molinatv/playlist.m3u8?PlaylistM3UCL
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Logo_cnnchile.png/600px-Logo_cnnchile.png" group-title="CHILE",CNN
+http://unlimited7-cl.dps.live/cnn/cnn.smil/playlist.m3u8?xtreamiptv.m3u8
+
+#EXTINF:-1, TVN
+http://mdstrm.com/live-stream-playlist/57a498c4d7b86d600e5461cb.m3u8
+
+#EXTINF:-1, MEGA
+http://mdstrm.com/live-stream-playlist/53d2c1a32640614e62a0e000.m3u8
+
+#EXTINF:-1, CHV
+http://live.hls.http.chv.ztreaming.com/chvhddesktop/chv-desktop.m3u8
+
+#EXTINF:-1, Canal 13
+http://13.live.cdn.cl/13hddesktop/13hd-1250.m3u8
+
+#EXTINF:-1, La Red
+http://d28d7tc1ojykcy.cloudfront.net/lared/smil:lared.smil/playlist.m3u8
+
+#EXTINF:-1, CNN Chile
+http://unlimited7-cl.dps.live/cnn/cnn.smil/playlist.m3u8
+
+#EXTINF:-1, 24 Horas
+http://mdstrm.com/live-stream-playlist-v/53443c472c6e89675103cc4c.m3u8
+
 
 
