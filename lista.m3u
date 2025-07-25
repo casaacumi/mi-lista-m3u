@@ -20,26 +20,122 @@ https://marine2.miplay.cl/molinatv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Logo_cnnchile.png/600px-Logo_cnnchile.png" group-title="CHILE",CNN
 http://unlimited7-cl.dps.live/cnn/cnn.smil/playlist.m3u8?xtreamiptv.m3u8
 
-#EXTINF:-1, TVN
-http://mdstrm.com/live-stream-playlist/57a498c4d7b86d600e5461cb.m3u8
 
-#EXTINF:-1, MEGA
-http://mdstrm.com/live-stream-playlist/53d2c1a32640614e62a0e000.m3u8
+########## DEPORTES / INTERNACIONALES ##########
 
-#EXTINF:-1, CHV
-http://live.hls.http.chv.ztreaming.com/chvhddesktop/chv-desktop.m3u8
+#EXTINF:-1 group-title="Deportes",DAZN F1 FHD
+https://deportes.ksdjugfsddeports.fun/Y6gMx4s18]WB.php?stream=183_&f=.ts
 
-#EXTINF:-1, Canal 13
-http://13.live.cdn.cl/13hddesktop/13hd-1250.m3u8
+#EXTINF:-1 group-title="Deportes",TUDN FHD
+https://deportes.ksdjugfsddeports.fun/Y6gMx4s18]WB.php?stream=184_&f=.ts
 
-#EXTINF:-1, La Red
-http://d28d7tc1ojykcy.cloudfront.net/lared/smil:lared.smil/playlist.m3u8
+#EXTINF:-1 group-title="Deportes",GOL PERU FHD
+https://deportes.ksdjugfsddeports.fun/Y6gMx4s18]WB.php?stream=185_&f=.ts
 
-#EXTINF:-1, CNN Chile
-http://unlimited7-cl.dps.live/cnn/cnn.smil/playlist.m3u8
+#EXTINF:-1 group-title="Deportes",TNT SPORTS FHD
+https://deportes.ksdjugfsddeports.fun/Y6gMx4s18]WB.php?stream=186_&f=.ts
 
-#EXTINF:-1, 24 Horas
-http://mdstrm.com/live-stream-playlist-v/53443c472c6e89675103cc4c.m3u8
+#EXTINF:-1 group-title="Deportes",ESPN PREMIUM AR FHD
+https://deportes.ksdjugfsddeports.fun/Y6gMx4s18]WB.php?stream=187_&f=.ts
 
+#EXTINF:-1 group-title="Deportes",TYC SPORTS FHD
+https://deportes.ksdjugfsddeports.fun/Y6gMx4s18]WB.php?stream=188_&f=.ts
 
+#EXTINF:-1 group-title="Deportes",FOX SPORTS FHD
+https://deportes.ksdjugfsddeports.fun/Y6gMx4s18]WB.php?stream=189_&f=.ts
 
+#EXTINF:-1 group-title="Deportes",FOX SPORTS 2 FHD
+https://deportes.ksdjugfsddeports.fun/Y6gMx4s18]WB.php?stream=190_&f=.ts
+
+#EXTINF:-1 group-title="Deportes",FOX SPORTS 3 FHD
+https://deportes.ksdjugfsddeports.fun/Y6gMx4s18]WB.php?stream=191_&f=.ts
+
+#EXTINF:-1 group-title="Deportes",ESPN FHD
+https://deportes.ksdjugfsddeports.fun/Y6gMx4s18]WB.php?stream=192_&f=.ts
+
+#EXTINF:-1 group-title="Deportes",ESPN 2 FHD
+https://deportes.ksdjugfsddeports.fun/Y6gMx4s18]WB.php?stream=193_&f=.ts
+
+#EXTINF:-1 group-title="Deportes",ESPN 3 FHD
+https://deportes.ksdjugfsddeports.fun/Y6gMx4s18]WB.php?stream=194_&f=.ts
+
+#EXTINF:-1 group-title="Deportes",DIRECTV SPORTS FHD
+https://deportes.ksdjugfsddeports.fun/Y6gMx4s18]WB.php?stream=195_&f=.ts
+
+#EXTINF:-1 group-title="Deportes",DIRECTV SPORTS 2 FHD
+https://deportes.ksdjugfsddeports.fun/Y6gMx4s18]WB.php?stream=196_&f=.ts
+
+#EXTINF:-1 group-title="Deportes",DIRECTV SPORTS PLUS FHD
+https://deportes.ksdjugfsddeports.fun/Y6gMx4s18]WB.php?stream=197_&f=.ts
+
+#EXTINF:-1 group-title="Deportes",FOX SPORTS 2 MEXICO FHD
+https://deportes.ksdjugfsddeports.fun/Y6gMx4s18]WB.php?stream=181_&f=.ts
+
+#EXTINF:-1 group-title="Deportes",FOX SPORTS 3 MEXICO FHD
+https://deportes.ksdjugfsddeports.fun/Y6gMx4s18]WB.php?stream=182_&f=.ts
+
+#EXTINF:-1 group-title="Deportes",ESPN MEXICO FHD
+https://deportes.ksdjugfsddeports.fun/Y6gMx4s18]WB.php?stream=198_&f=.ts
+
+#EXTINF:-1 group-title="Deportes",ESPN 2 MEXICO FHD
+https://deportes.ksdjugfsddeports.fun/Y6gMx4s18]WB.php?stream=199_&f=.ts
+
+#EXTINF:-1 group-title="Deportes",ESPN 3 MEXICO FHD
+https://deportes.ksdjugfsddeports.fun/Y6gMx4s18]WB.php?stream=200_&f=.ts
+
+#EXTINF:-1 group-title="Deportes",LIGA 1 MAX FHD
+https://deportes.ksdjugfsddeports.fun/Y6gMx4s18]WB.php?stream=201_&f=.ts
+
+#EXTINF:-1 group-title="Deportes",ESPN 4 FHD
+https://deportes.ksdjugfsddeports.fun/Y6gMx4s18]WB.php?stream=202_&f=.ts
+
+#EXTINF:-1 group-title="Deportes",FOX SPORTS PREMIUM FHD
+https://deportes.ksdjugfsddeports.fun/Y6gMx4s18]WB.php?stream=203_&f=.ts
+
+#EXTINF:-1 group-title="Deportes",ESPN 5 FHD
+https://deportes.ksdjugfsddeports.fun/Y6gMx4s18]WB.php?stream=204_&f=.ts
+
+#EXTINF:-1 group-title="Deportes",ESPN 6 FHD
+https://deportes.ksdjugfsddeports.fun/Y6gMx4s18]WB.php?stream=205_&f=.ts
+
+#EXTINF:-1 group-title="Deportes",ESPN 7 FHD
+https://deportes.ksdjugfsddeports.fun/Y6gMx4s18]WB.php?stream=206_&f=.ts
+
+#EXTINF:-1 group-title="Deportes",DAZN LA LIGA FHD
+https://deportes.ksdjugfsddeports.fun/Y6gMx4s18]WB.php?stream=207_&f=.ts
+
+#EXTINF:-1 group-title="Deportes",MOVISTAR L. CAMPEONES FHD
+https://deportes.ksdjugfsddeports.fun/Y6gMx4s18]WB.php?stream=208_&f=.ts
+
+#EXTINF:-1 group-title="Deportes",WIN SPORTS PLUS FHD
+https://deportes.ksdjugfsddeports.fun/Y6gMx4s18]WB.php?stream=209_&f=.ts
+
+#EXTINF:-1 group-title="Deportes",BEIN SPORTS XTRA FHD
+https://deportes.ksdjugfsddeports.fun/Y6gMx4s18]WB.php?stream=210_&f=.ts
+
+#EXTINF:-1 group-title="Deportes",MOVISTAR LA LIGA FHD
+https://deportes.ksdjugfsddeports.fun/Y6gMx4s18]WB.php?stream=211_&f=.ts
+
+#EXTINF:-1 group-title="Deportes",WIN SPORTS FHD
+https://deportes.ksdjugfsddeports.fun/Y6gMx4s18]WB.php?stream=212_&f=.ts
+
+#EXTINF:-1 group-title="Deportes",ECDF FHD
+https://deportes.ksdjugfsddeports.fun/Y6gMx4s18]WB.php?stream=213_&f=.ts
+
+#EXTINF:-1 group-title="Deportes",ESPN ARGENTINA FHD
+https://deportes.ksdjugfsddeports.fun/Y6gMx4s18]WB.php?stream=214_&f=.ts
+
+#EXTINF:-1 group-title="Deportes",ESPN PREMIUM ARGENTINA FHD
+https://deportes.ksdjugfsddeports.fun/Y6gMx4s18]WB.php?stream=215_&f=.ts
+
+#EXTINF:-1 group-title="Deportes",LIGA 1 FHD
+https://deportes.ksdjugfsddeports.fun/Y6gMx4s18]WB.php?stream=216_&f=.ts
+
+#EXTINF:-1 group-title="Deportes",NBA TV FHD
+https://deportes.ksdjugfsddeports.fun/Y6gMx4s18]WB.php?stream=217_&f=.ts
+
+#EXTINF:-1 group-title="Deportes",SKY SPORTS BUNDESLIGA FHD
+https://deportes.ksdjugfsddeports.fun/Y6gMx4s18]WB.php?stream=218_&f=.ts
+
+#EXTINF:-1 group-title="Deportes",MOVISTAR DEPORTES PE FHD
+https://deportes.ksdjugfsddeports.fun/Y6gMx4s18]WB.php?stream=219_&f=.ts
